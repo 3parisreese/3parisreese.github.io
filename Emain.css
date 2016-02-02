@@ -1,0 +1,27 @@
+body {
+    background: lightgray;
+    color: black;
+  text-decoration: none;
+    font-family: sans-serif;
+}
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {background: black;
+color: white;
+  font-family: helvetica;
+padding-top: 30px;}
+
+.top-links {
+    color: white;
+}
+p {font-size: 16px;
+    text-align: center;
+    font-family: sans-serif
+
+}
