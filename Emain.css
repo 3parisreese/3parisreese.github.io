@@ -78,12 +78,12 @@ p {font-size: 16px;
 
 }
 
-.round-buttons {
+.round-buttons {border-radius: 50%;
     
     
 }
-=======
+
 
 footer {text-align: center;
 }
->>>>>>> origin/master
+
