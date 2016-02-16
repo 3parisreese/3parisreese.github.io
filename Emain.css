@@ -1,0 +1,61 @@
+body {
+    background: lightgray;
+    color: black;
+  text-decoration: none;
+    font-family: sans-serif;
+}
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {background: black;
+color: white;
+  font-family: helvetica;
+padding-top: 30px;}
+
+
+
+
+p {font-size: 16px;
+    text-align: center;
+    font-family: sans-serif
+
+}
+
+.container {display: flex;
+    width: 1200px
+        
+   
+}
+
+.top {align-content: center
+    
+}
+
+.button {
+    display: inline-block;
+    background: gray;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    text-decoration: none;
+    float: right;
+    
+}
+
+.middle {
+    
+    
+}
+
+.rounds {display: flex;
+
+}
+
+.round-buttons {
+    
+    
+}
